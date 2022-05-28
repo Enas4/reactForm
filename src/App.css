@@ -32,6 +32,7 @@
   background-color: white;
   font-weight: bold;
   cursor: pointer;
+  color: rgb(21, 28, 49);
 }
 .App-div p {
   padding: 80px;
